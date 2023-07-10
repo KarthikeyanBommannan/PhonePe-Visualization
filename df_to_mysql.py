@@ -6,7 +6,7 @@ def main():
         conn = msc.connect(
                 host = 'localhost',
                 user ='root',
-                password ='your_password',
+                password ='karthi123',
                 port = '3306',
                 db ='vikranthdb'
         )  
